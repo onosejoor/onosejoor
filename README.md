@@ -6,4 +6,4 @@
   
 - 📫 How to reach me onosejoor0@gmail.com
   
-- ⚡ Fun fact: html was invented by **SIR TIM BENESLY**  
+- ⚡ Fun fact: html was invented by **Sir Tim Berners-Lee**  
