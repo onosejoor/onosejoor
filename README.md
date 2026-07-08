@@ -1,85 +1,123 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" align="center" style="width: 100%" />
-</div>  
- <div align="center">I'm Ejoor Onos Henry, a passionate and dedicated full-stack developer.</div>
-
-- 🌱 I’m currently learning/building with GO  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- All of my projects are available at https://onos-ejoor.vercel.app  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" align="center" style="width: 100%" />
 </div>
 
-</td><td valign="top" width="33%">
+<h1 align="center">Hi there, I'm Ejoor Onos Henry 👋</h1>
 
+<p align="center">
+  <strong>Passionate Full-Stack Developer</strong> crafting scalable web applications with modern technologies.
+</p>
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/onosejoor" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/onosejoor141" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dev.text16" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Devtext16" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://onos-ejoor.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/onosejoor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<br/>  
+---
 
+## 🚀 About Me
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=onosejoor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+I'm **Ejoor Onos Henry**, a dedicated full-stack software engineer based in Nigeria with over **2 years of hands-on experience** building production-grade web applications. 
 
-<br/>  
-  
+I specialize in the **MERN stack** while actively expanding into **Go** for high-performance backends. I'm passionate about creating intuitive user experiences, scalable systems, and open-source tools that help developers and teams be more productive.
 
-<br/>  
+- 🌱 **Currently building** with **Go**, Next.js, and modern full-stack architectures
+- 💡 **Open to collaboration** on exciting projects, especially task management, social platforms, and AI-powered tools
+- ❓ Ask me anything about **MERN**, Next.js, Go, TypeScript, or system design!
 
+**Explore my work:** [onos-ejoor.vercel.app](https://onos-ejoor.vercel.app)
 
-<br />
+---
+
+## 🛠️ Skills & Technologies
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Backend & Tools</h3>
+      <div align="center">
+        <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+**Additional Expertise:**
+- **Databases**: MongoDB (with transactions), PostgreSQL, Redis (caching)
+- **Cloud & DevOps**: Cloudinary, Vercel, Docker basics, Prometheus monitoring
+- **Others**: JWT Auth, OAuth (Google), REST/GraphQL APIs, Tailwind + shadcn/ui, SWR
+
+---
+
+## 💼 Experience
+
+- **Fullstack Developer** @ **PACESTACKS SYSTEM** (Dec 2025 – Present)
+- **Fullstack Developer (Freelance)** (2024 – Present)
+- **Fullstack Developer Intern** @ **EaseLab Africa** (Dec 2024 – July 2025)
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **[Zendo](https://github.com/onosejoor/zendo)** | Full-featured task & project management app with teams, real-time stats, email reminders, and advanced collaboration | Go (Fiber), Next.js, TypeScript, MongoDB, Redis, Tailwind | [Repo](https://github.com/onosejoor/zendo) |
+| **[PixTrends](https://github.com/onosejoor/PixTrends)** | Social media platform | Next.js, TypeScript | [Repo](https://github.com/onosejoor/PixTrends) |
+| **[TaleGenie](https://github.com/onosejoor/TaleGenie)** | AI-powered story generator using Gemini | Next.js, TypeScript | [Repo](https://github.com/onosejoor/TaleGenie) |
+| **[wshare](https://github.com/onosejoor/wshare)** | Secure file sharing application | Next.js + Go | [Repo](https://github.com/onosejoor/wshare) |
+
+→ **[View all projects →](https://onos-ejoor.vercel.app)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onosejoor&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onosejoor&theme=radical" alt="Streak Stats" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/onosejoor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/onosejoor141" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Devtext16" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/dev.text16" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+*Made with ❤️ by Ejoor Onos Henry. Always learning, always building.*
