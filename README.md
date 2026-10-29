@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://onos-ejoor.vercel.app" target="_blank">
+  <a href="https://onosejoor.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/onosejoor" target="_blank">
@@ -29,7 +29,7 @@ I specialize in the **MERN stack** while actively expanding into **Go** for high
 - 💡 **Open to collaboration** on exciting projects, especially task management, social platforms, and AI-powered tools
 - ❓ Ask me anything about **MERN**, Next.js, Go, TypeScript, or system design!
 
-**Explore my work:** [onos-ejoor.vercel.app](https://onos-ejoor.vercel.app)
+**Explore my work:** [PORTFOLIO](https://onosejoor.is-a.dev)
 
 ---
 
